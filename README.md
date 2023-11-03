@@ -44,5 +44,4 @@ This project is developed to support real estate investors and analysts in their
 
 ---
 
-**Project created by [Your Name]**
 
